@@ -42,4 +42,4 @@ TODO: Replace the image below with your own.
 ![model_test_score.png](img/model_test_score.png)
 
 ## Summary
-TODO: None
+TODO: The models performs better when the parameters are automatically selected by Autogluon and more features were created from existing features.
