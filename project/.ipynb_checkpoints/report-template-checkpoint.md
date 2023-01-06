@@ -13,7 +13,7 @@ TODO: WeightedEnsemble_L3
 TODO: The EDA found out that the datetime feature should be broken apart to be able to derive better predictions . I added additional features by spliting the datetime feature into month, hour and day 
 
 ### How much better did your model preform after adding additional features and why do you think that is?
-TODO: The model performed better by 19.353515. It performed better because it had additional features to help it train better.
+TODO: The model performed better by 6.380403. It performed better because it had additional features to help it train better.
 
 ## Hyper parameter tuning
 ### How much better did your model preform after trying different hyper parameters?
@@ -25,9 +25,9 @@ TODO: I will spend more time at trying different hyperparameters to improve the 
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
 |model|hpo1|hpo2|hpo3|score|
 |--|--|--|--|--|
-|initial|none|none|none|1.84484|
-|add_features|none|none|none|0.65427|
-|hpo|num_trials|scheduler|searcher|0.65427|
+|initial|none|none|none|1.79153|
+|add_features|none|none|none|0.68949|
+|hpo|num_trials|scheduler|searcher|0.6245|
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
